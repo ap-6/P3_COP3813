@@ -1,0 +1,56 @@
+label {
+   display: block;  
+   margin-top: 10px;
+}
+input  {
+   display: block;
+   margin-bottom: 10px;
+}
+
+.myCalculate {
+    
+}
+
+header.myHeader {
+    background: url("../img/backgroundMain.png") no-repeat center center !important;
+}
+
+.myValues {
+    background-color: black;
+    border-style: solid;
+    border-color: darkgray;
+    border-radius: 25px;
+}
+
+.myHeaderFooterColor {
+    background-color: rgb(88, 88, 88);
+}
+
+.myHeaderFooterText {
+    color: rgba(240,240,240,.9);
+}
+
+.myButtons {
+    color: #fff;
+    background-color: #157bff;
+    border-color: #157bff;
+}
+
+.myValuesTitle {
+    padding: 20px;
+    margin: 10px;
+}
+
+.myEmptyValuesTitle {
+    padding: 30px;
+}
+
+.myCalculatedValues {
+    padding: 20px;
+    margin: 10px;
+}
+
+.myHeaderText {
+    padding: 5px;
+    font-size: 1.1rem !important;
+}
